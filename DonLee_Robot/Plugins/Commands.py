@@ -53,7 +53,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('My Dev 🧒', url='https://t.me/mrk_yt'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/PR0FESS0R-99/DonLee_bot')
+        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/PR0FESS0R-99/DonLee-Robot-V1')
     ],[
         InlineKeyboardButton('🛠 Support 🛠', url='https://t.me/mo_tech_yt')
     ],[
