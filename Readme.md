@@ -1,12 +1,12 @@
 # [DONLEE_ROBOT](https://telegram.dog/Donlee_Robot)
 
 <p align="center">
-  <a href="https://github.com/PR0FESS0R-99/DonLee_bot/stargazers">
+  <a href="https://github.com/sara1541/DonLee_bot/stargazers">
     <img src="https://img.shields.io/github/stars/sara1541/DonLee_bot?style=social">
 
   </a>
   
-  <a href="https://github.com/PR0FESS0R-99/DonLee_bot/fork">
+  <a href="https://github.com/sara1541/DonLee_bot/fork">
     <img src="https://img.shields.io/github/forks/sara1541/DonLee_bot?label=Fork&style=social">
 
   </a>  
@@ -36,7 +36,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <br>
 
 ### Notice
-* This [Deploy button](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_bot/tree/main) is the original
+* This [Deploy button](https://heroku.com/deploy?template=https://github.com/sara1541/DonLee_bot/tree/main) is the original
 * Click [Deploy Video](https://youtu.be/uAHl5jvnrhk) to watch the video
 
 #### Deploy Video
