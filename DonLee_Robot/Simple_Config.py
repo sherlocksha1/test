@@ -1,5 +1,7 @@
 import os
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+
+
 class Mo_Tech_YT(object):
     MO_TECH_YT_01 = InlineKeyboardMarkup
     MO_TECH_YT_02 = InlineKeyboardButton
@@ -9,7 +11,7 @@ class Mo_Tech_YT(object):
     MO_TECH_YT_06 = os.environ.get("KITTUMO")
     MO_TECH_YT_07 = bool(os.environ.get("SIZE_BUTTON"))
     MO_TECH_YT_08 = os.environ.get("IN_EXPELL").split()
-    MO_TECH_YT_09 = set(int(x) for x in os.environ.get("OWNER_ID", "").split())
+    MO_TECH_YT_09 = {int(x) for x in os.environ.get("OWNER_ID", "").split()}
     MO_TECH_YT_10 = int(os.environ.get("APP_ID"))
     MO_TECH_YT_11 = os.environ.get("API_HASH")
     MO_TECH_YT_12 = os.environ.get("BOT_TOKEN")
