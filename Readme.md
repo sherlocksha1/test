@@ -14,7 +14,7 @@
 
 --------
 
-This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.Spelsara1541/Adv-Auto-Filter-Bot)
+This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.Spel/sara1541/Adv-Auto-Filter-Bot)
 
 Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
 
