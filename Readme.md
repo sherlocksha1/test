@@ -2,19 +2,19 @@
 
 <p align="center">
   <a href="https://github.com/PR0FESS0R-99/DonLee_bot/stargazers">
-    <img src="https://img.shields.io/github/stars/PR0FESS0R-99/DonLee_bot?style=social">
+    <img src="https://img.shields.io/github/stars/sara1541/DonLee_bot?style=social">
 
   </a>
   
   <a href="https://github.com/PR0FESS0R-99/DonLee_bot/fork">
-    <img src="https://img.shields.io/github/forks/PR0FESS0R-99/DonLee_bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/sara1541/DonLee_bot?label=Fork&style=social">
 
   </a>  
 </p>
 
 --------
 
-This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot)
+This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Auto-Filter-Bot-v1](https://github.Spelsara1541/Adv-Auto-Filter-Bot)
 
 Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its MongoDB And Reply You With The Message Link As A Button
 
@@ -44,7 +44,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <a href="https://youtu.be/uAHl5jvnrhk"><img src="https://img.shields.io/youtube/views/uAHl5jvnrhk?style=social">
 
 #### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_bot/tree/main"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/sara1541/DonLee_bot/tree/main"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 </details>
 
@@ -61,7 +61,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <a href="https://youtu.be/lI71HsWzTKE"><img src="https://img.shields.io/youtube/views/lI71HsWzTKE?style=social">
 
 #### Deploy To Heroku
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee_bot/tree/MoTech"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/sara1541/DonLee_bot/tree/MoTech"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 </a>
 </p>
@@ -125,7 +125,7 @@ Do Fork And Star The Repository If You Liked It.
 ----
 ##### Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL v3.0.](https://github.com/PR0FESS0R-99/DonLee_Robot/blob/main/LICENSE)
+Licensed under [GNU AGPL v3.0.](https://github.com/sara1541/DonLee_Robot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ----
 ## Credits
